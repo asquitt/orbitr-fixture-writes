@@ -1,2 +1,2 @@
 #!/bin/sh
-echo build v3
+echo build
